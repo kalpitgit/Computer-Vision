@@ -1,5 +1,5 @@
-# Open Black image
-# Read Black Image
+# Open White image
+# Read White Image
 
 import numpy as np
 import cv2
